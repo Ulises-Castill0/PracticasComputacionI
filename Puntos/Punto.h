@@ -1,8 +1,8 @@
 // Castillo Gomez Jesus Ulises
 // 5 de noviembre de 2020
 
-#ifndef PUNTOS_PUNTO_H
-#define PUNTOS_PUNTO_H
+#ifndef PUNTO_H
+#define PUNTO_H
 
 class Punto2D
 {
