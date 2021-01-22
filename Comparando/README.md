@@ -1,4 +1,6 @@
-# Comparación 
+<div class=text-justify>
+# Comparación
+</div>
 
 ## Sistema de ecuaciones usado
 
