@@ -16,4 +16,4 @@
 | Python |   |
 | Python + numpy  |  |
 
-##Discución 
+## Discución 
